@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://oryan-hassidim.github.io/AddMathInstaller/AddMathMSIX.appinstaller"
+	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="dfba1eb0-7e8f-4e7c-89ad-497950828016"
+		Version="1.0.0.0"
+		Publisher="CN=Oryan Hassidim"
+		Uri="https://oryan-hassidim.github.io/AddMathInstaller/AddMathMSIX_1.0.0.0_Test/AddMathMSIX_1.0.0.0_AnyCPU.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="360" />
+	</UpdateSettings>
+</AppInstaller>
